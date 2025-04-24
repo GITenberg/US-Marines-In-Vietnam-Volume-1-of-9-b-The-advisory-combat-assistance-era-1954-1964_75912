@@ -1,0 +1,28 @@
+_repo: US-Marines-In-Vietnam-Volume-1-of-9-b-The-advisory-combat-assistance-era-1954-1964_75912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whitlow, Robert
+    gutenberg_agent_id: '58214'
+    url: http://www.gutenberg.org/2009/agents/58214
+description: ''
+gutenberg_issued: '2025-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75912'
+language: en
+pgterms:marc904: https://archive.org/details/TheBitterEnd
+pgterms:marc905: 20210225033350whitlow
+pgterms:marc906: '1977'
+pgterms:marc907: US
+production_note: Brian Coe and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aWashington :$bUSMC, $c1977.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'U.S. Marines In Vietnam, Volume 1 (of 9) : $b The advisory & combat assistance
+  era 1954-1964'
+url: http://www.gutenberg.org/ebooks/75912
