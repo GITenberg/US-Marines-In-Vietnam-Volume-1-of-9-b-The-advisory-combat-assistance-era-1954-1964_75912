@@ -1,11 +1,16 @@
 _repo: US-Marines-In-Vietnam-Volume-1-of-9-b-The-advisory-combat-assistance-era-1954-1964_75912
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75912-h/images/cover.jpg
 creator:
   author:
     agent_name: Whitlow, Robert
     gutenberg_agent_id: '58214'
     url: http://www.gutenberg.org/2009/agents/58214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75912#US-Marines-In-Vietnam-Volume-1-of-9-b-The-advisory-combat-assistance-era-1954-1964
 gutenberg_issued: '2025-04-19'
 gutenberg_type: Text
 identifiers:
